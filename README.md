@@ -24,5 +24,7 @@ source ~/.bashrc
 ```bash
 Life 1s/2m/3h
 ```
+On the first run of the day, it will print a summary
+
 []()
 
