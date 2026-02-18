@@ -1,6 +1,6 @@
 # Life Timer [Linux]
 
-A minimalist Python-based break reminder for Ubuntu/GNOME. It provides a terminal countdown and a graphical popup to help reclaim your rhythm from intensive work.
+A minimalist Python-based break reminder.
 
 ## Prerequisites
 Install the required image processing libraries:
@@ -18,11 +18,11 @@ sudo apt install python3-pil python3-pil.imagetk
 # Path defaults to ~/Life.py; adjust if you saved it elsewhere
 echo "alias Life='nohup python3 ~/Life.py \"\$1\" >/dev/null 2>&1 & disown'" >> ~/.bashrc
 source ~/.bashrc
-```bash
+```
 
 ### Usage
 ```bash
-Life 25m    # 25 minutes for focused study or TOEFL practice
-Life 1h     # 1 hour for deep geophysical data analysis
-Life 10s    # Quick functionality test
-```bash
+Life 1s/2m/3h
+```
+[]()
+
