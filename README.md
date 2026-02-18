@@ -27,5 +27,5 @@ Life 1s/2m/3h
 On the first run of the day, it will print a summary table
 Click the image to exit.
 
-[]()
+<img src="Image"  width="400">
 
