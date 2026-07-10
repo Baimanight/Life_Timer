@@ -28,7 +28,8 @@ Life 1s/2m/3h
 On the first run of the day, it will print a summary table
 Click the image to exit.
 
-<img src="Image1"  width="400">
+<img src="Image1.png"  width="400">
 
 Then, a new window will appear, allowing you to set the next timer.
-<img src="Image2"  width="300">
+
+<img src="Image2.png"  width="300">
