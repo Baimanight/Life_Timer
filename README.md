@@ -7,6 +7,7 @@ Install the required image processing libraries:
 ```bash
 sudo apt update
 sudo apt install python3-pil python3-pil.imagetk
+pip install customtkinter
 ```
 ### Setup & Customization
 - Save Script: Save your script as Life.py in your home directory.
